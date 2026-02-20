@@ -1,0 +1,7 @@
+body {background-color: rgb(252, 252, 201)}
+header {background-color: rgb(180, 178, 178);}
+h1 {text-align: center; font-family: cursive; color: navy;}
+nav {background-color: rgb(115, 167, 249);}
+li {display: inline-block; margin-right: 100px;}
+main {background-color: yellow; line-height: 10px;}
+footer {background-color: rgb(180, 178, 178);}
